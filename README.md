@@ -1,7 +1,5 @@
 # Bash Script Guide
 
-## Creating a Bash Script
-
 ### Step 1: Create the Script
 Create a `bash_script.sh` with the following content:
 
